@@ -1,1 +1,1 @@
-Hacker Rank quiz
+Array.sort makes this super easy
